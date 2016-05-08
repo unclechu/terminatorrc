@@ -69,7 +69,7 @@
   [[dark]]
     background_color = "#021c22"
     background_image = None
-    font = Hack 13
+    font = Hack 9
     foreground_color = "#8db8bd"
     palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
     scrollback_lines = 10000
@@ -79,7 +79,7 @@
   [[light]]
     background_color = "#fdf6e3"
     background_image = None
-    font = Hack 13
+    font = Hack 9
     foreground_color = "#657b83"
     palette = "#073642:#dc322f:#859900:#b58900:#268bd2:#d33682:#2aa198:#eee8d5:#002b36:#cb4b16:#586e75:#657b83:#839496:#6c71c4:#93a1a1:#fdf6e3"
     scrollback_lines = 10000
